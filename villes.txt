@@ -1,0 +1,3 @@
+Paris Marseille 700
+Paris Lyon 400
+Lyon Marseille 400 
